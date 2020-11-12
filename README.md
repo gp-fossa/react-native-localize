@@ -3,6 +3,7 @@
 A toolbox for your React Native app localization.
 
 [![npm version](https://badge.fury.io/js/react-native-localize.svg)](https://badge.fury.io/js/react-native-localize) [![npm](https://img.shields.io/npm/dt/react-native-localize.svg)](https://www.npmjs.org/package/react-native-localize) ![Platform - Android, iOS and Web](https://img.shields.io/badge/platform-Android%20%7C%20iOS%20%7C%20Web-yellow.svg) ![MIT](https://img.shields.io/dub/l/vibe-d.svg) [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgp-fossa%2Freact-native-localize.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgp-fossa%2Freact-native-localize?ref=badge_shield)
 
 <img width="400" height="auto" center src="https://github.com/react-native-community/react-native-localize/blob/master/docs/screenshot.png?raw=true" />
 
@@ -430,3 +431,7 @@ export {
 ## Add project's supported localizations (iOS)
 
 ![](https://github.com/react-native-community/react-native-localize/blob/master/docs/xcode-adding-locales.png?raw=true)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgp-fossa%2Freact-native-localize.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgp-fossa%2Freact-native-localize?ref=badge_large)
