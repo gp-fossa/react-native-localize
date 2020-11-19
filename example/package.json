@@ -19,7 +19,7 @@
     "react-native": "0.61.2",
     "react-native-fs": "2.15.2",
     "react-native-localize": "file:../",
-    "react-native-web": "0.11.7"
+    "react-native-web": "0.14.5"
   },
   "devDependencies": {
     "@babel/core": "7.6.4",
