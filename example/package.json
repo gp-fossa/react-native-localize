@@ -16,7 +16,7 @@
     "lodash.memoize": "4.1.2",
     "react": "16.9.0",
     "react-dom": "16.9.0",
-    "react-native": "0.61.2",
+    "react-native": "0.62.0",
     "react-native-fs": "2.15.2",
     "react-native-localize": "file:../",
     "react-native-web": "0.11.7"
